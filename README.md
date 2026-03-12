@@ -15,6 +15,10 @@
 ### 🛰️ Exploring the unknown through code
 
 <p align="center">
+  Greetings, traveler! 🌌 I am an <strong>AI Prompt Engineer</strong> navigating the intersection of artificial intelligence and deep space. My mission is to craft precise, quantum-level prompts that unlock the full potential of language models, pushing the boundaries of what's possible in the digital void.
+</p>
+
+<p align="center">
   <a href="https://github.com/xxww0098">
     <img src="https://github-readme-stats.vercel.app/api?username=xxww0098&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=7c3aed&icon_color=00fff9&border_radius=15&custom_title=🔮%20Quantum%20Metrics" alt="GitHub Stats" height="150" />
   </a>
